@@ -1,5 +1,5 @@
 # Conformidade Regulatória & Auditoria
-
+ 
 ## 📌 Visão Geral do Projeto
 O banco de dados **Conformidade Regulatória & Auditoria** foi projetado para monitorar e gerenciar a conformidade com regulamentações legais e do setor. Ele inclui recursos para rastrear regulamentos, realizar auditorias, manter registros de auditoria e registrar treinamentos de conformidade.
 
