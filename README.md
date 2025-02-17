@@ -1,5 +1,5 @@
 # Regulatory Compliance & Auditing
-
+ 
 ## 📌 Project Overview
 The **Regulatory Compliance & Auditing** database is designed to monitor and manage compliance with legal and industry regulations. It includes features for tracking regulations, conducting audits, maintaining audit logs, and recording compliance training.
 
