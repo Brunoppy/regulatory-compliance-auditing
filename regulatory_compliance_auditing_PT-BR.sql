@@ -1,6 +1,6 @@
 -- Banco de Dados de Conformidade Regulatória e Auditoria
 -- Este banco de dados foi projetado para rastrear conformidade regulatória, auditorias e ações relacionadas.
- 
+  
 CREATE DATABASE conformidade_auditoria;
 USE conformidade_auditoria;
 
